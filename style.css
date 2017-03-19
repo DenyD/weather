@@ -1,12 +1,13 @@
-body{margin-top:50px;
-  background:url("http://weknowyourdreams.com/images/cloud/cloud-08.jpg");
-  
-  color:white;
+body{
+  margin-top:250px;
+  background:url("http://weknowyourdreams.com/images/cloud/cloud-08.jpg");  
+  color: #383838;
 }
 .marg{
-  margin:40px;
+  margin:100px;
 }
 .btn{
-  border-color:white;
+  color: #383838;
+  border-color:#000000;
   border-radius:5px;
 }
